@@ -79,7 +79,6 @@ section{
 .btn{
   color: #fff;
   background: black;
-  /* #3a6cf */
   font-size: 1em;
   font-weight: 600;
   display: inline-block;
@@ -101,7 +100,7 @@ section{
 }
 
 .media-icons a{
-  color: #fff;
+  color:black;
   font-size: 25px;
   margin-right: 30px;
 }
@@ -122,7 +121,7 @@ header{
 }
 
 header.sticky{
-  background: #3a6cf4;
+  background: rgb(0, 0, 0);
   padding: 10px 200px;
 }
 
