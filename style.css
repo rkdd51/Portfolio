@@ -150,7 +150,7 @@ header .navigation a:hover{
 }
 
 header.sticky .navigation a:hover{
-  color: #000;
+  color: grey;
 }
 
 body{
@@ -696,3 +696,9 @@ body{
   opacity: 1;
 }
       
+.para{
+  background-color: white;
+  border: 5px solid darkblue;
+  border-radius: 20px;
+  padding-left: 45px;
+}
